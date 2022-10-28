@@ -1,0 +1,15 @@
+C:\Угадай число by Kotovich Inc\Угадай число by Kotovich Inc\obj\Debug\net6.0\Угадай число by Kotovich Inc..csproj.AssemblyReference.cache
+C:\Угадай число by Kotovich Inc\Угадай число by Kotovich Inc\obj\Debug\net6.0\Угадай число by Kotovich Inc..GeneratedMSBuildEditorConfig.editorconfig
+C:\Угадай число by Kotovich Inc\Угадай число by Kotovich Inc\obj\Debug\net6.0\Угадай число by Kotovich Inc..AssemblyInfoInputs.cache
+C:\Угадай число by Kotovich Inc\Угадай число by Kotovich Inc\obj\Debug\net6.0\Угадай число by Kotovich Inc..AssemblyInfo.cs
+C:\Угадай число by Kotovich Inc\Угадай число by Kotovich Inc\obj\Debug\net6.0\Угадай число by Kotovich Inc..csproj.CoreCompileInputs.cache
+C:\Угадай число by Kotovich Inc\Угадай число by Kotovich Inc\bin\Debug\net6.0\Угадай число by Kotovich Inc..exe
+C:\Угадай число by Kotovich Inc\Угадай число by Kotovich Inc\bin\Debug\net6.0\Угадай число by Kotovich Inc..deps.json
+C:\Угадай число by Kotovich Inc\Угадай число by Kotovich Inc\bin\Debug\net6.0\Угадай число by Kotovich Inc..runtimeconfig.json
+C:\Угадай число by Kotovich Inc\Угадай число by Kotovich Inc\bin\Debug\net6.0\Угадай число by Kotovich Inc..dll
+C:\Угадай число by Kotovich Inc\Угадай число by Kotovich Inc\bin\Debug\net6.0\Угадай число by Kotovich Inc..pdb
+C:\Угадай число by Kotovich Inc\Угадай число by Kotovich Inc\obj\Debug\net6.0\Угадай число by Kotovich Inc..dll
+C:\Угадай число by Kotovich Inc\Угадай число by Kotovich Inc\obj\Debug\net6.0\refint\Угадай число by Kotovich Inc..dll
+C:\Угадай число by Kotovich Inc\Угадай число by Kotovich Inc\obj\Debug\net6.0\Угадай число by Kotovich Inc..pdb
+C:\Угадай число by Kotovich Inc\Угадай число by Kotovich Inc\obj\Debug\net6.0\Угадай число by Kotovich Inc..genruntimeconfig.cache
+C:\Угадай число by Kotovich Inc\Угадай число by Kotovich Inc\obj\Debug\net6.0\ref\Угадай число by Kotovich Inc..dll
